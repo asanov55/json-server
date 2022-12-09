@@ -1,2 +1,2 @@
-(https://todo-server.herokuapp.com/).
+(https://todo-server.herokuapp.com/)
 # json-server
